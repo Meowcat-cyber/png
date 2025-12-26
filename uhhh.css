@@ -1,8 +1,8 @@
 /* 1. FONTS & SYSTEM CORE IMPORTS */
-/* @import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');*/
 
 /* --- Core Logic --- */
-/*@import url("https://ungiglio.github.io/DiscordDiscordia/awkglass/core/variables.css");
+@import url("https://ungiglio.github.io/DiscordDiscordia/awkglass/core/variables.css");
 
 /* --- Interfaccia Utente (UI) --- */
 /*@import url("https://ungiglio.github.io/DiscordDiscordia/awkglass/core/ui/app_base.css");
@@ -15,7 +15,7 @@
 @import url("https://ungiglio.github.io/DiscordDiscordia/awkglass/core/layout/pages.css");
 
 /* --- Chat & Forum --- */
-/*@import url("https://ungiglio.github.io/DiscordDiscordia/awkglass/core/chat/message_area.css");
+@import url("https://ungiglio.github.io/DiscordDiscordia/awkglass/core/chat/message_area.css");
 @import url("https://ungiglio.github.io/DiscordDiscordia/awkglass/core/chat/input_bar.css");
 @import url("https://ungiglio.github.io/DiscordDiscordia/awkglass/core/chat/forum.css");
 
